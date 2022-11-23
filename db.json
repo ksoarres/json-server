@@ -3,38 +3,39 @@
     {
       "pedidosdeliveryJan":120,
       "vendasJan":200,
-      "id":1
+      "id":1,
+      "cidade": "Rio de Janeiro"
     },
     {
       "pedidosdeliveryFev":260,
       "vendasFev":500,
-      "id":2
+      "id":2,
+      "cidade": "São Paulo"
     },
     {
       "pedidosdeliveryMar":50,
       "vendasMar":300,
-      "id":3
-    },
-    {
-      "pedidosdeliveryAbr":340,
-      "vendasAbr":450,
-      "id":4
+      "id":3,
+      "cidade": "Salvador"
     }
   ],
 
   "funcionarios": [
     {
       "nome":"Henrique",
+      "ondeNasceu":"Brasil",
       "area":"gerente",
       "id":1
     },
     {
       "nome":"Felipe",
+      "ondeNasceu":"Canadá",
       "area":"chef",
       "id":2
     },
     {
       "nome":"Gustavo",
+      "ondeNasceu":"Estados Unidos",
       "area":"atendente",
       "id":3
     }
@@ -43,16 +44,19 @@
   "clientes":[
     {
       "nome":"Gabriel",
+      "ondeMora":"Campo Grande",
       "cpf":"2309858017",
       "id":1
     },
     {
       "nome":"Hugo",
+      "ondeMora":"Bangu",
       "cpf":"2309858169",
       "id":2
     },
     {
       "nome":"Kaue",
+      "ondeMora":"Guadalupe",
       "cpf":"2309858050",
       "id":3
     }
