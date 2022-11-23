@@ -1,0 +1,60 @@
+{
+  "hamburgueria":[
+    {
+      "pedidosdeliveryJan":120,
+      "vendasJan":200,
+      "id":1
+    },
+    {
+      "pedidosdeliveryFev":260,
+      "vendasFev":500,
+      "id":2
+    },
+    {
+      "pedidosdeliveryMar":50,
+      "vendasMar":300,
+      "id":3
+    },
+    {
+      "pedidosdeliveryAbr":340,
+      "vendasAbr":450,
+      "id":4
+    }
+  ],
+
+  "funcionarios": [
+    {
+      "nome":"Henrique",
+      "area":"gerente",
+      "id":1
+    },
+    {
+      "nome":"Felipe",
+      "area":"chef",
+      "id":2
+    },
+    {
+      "nome":"Gustavo",
+      "area":"atendente",
+      "id":3
+    }
+  ],
+  
+  "clientes":[
+    {
+      "nome":"Gabriel",
+      "cpf":"2309858017",
+      "id":1
+    },
+    {
+      "nome":"Hugo",
+      "cpf":"2309858169",
+      "id":2
+    },
+    {
+      "nome":"Kaue",
+      "cpf":"2309858050",
+      "id":3
+    }
+  ]
+}
